@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Mo-muneeb123/Mo-muneeb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✋ Hi, I am a junior Computer Science and Mathematics student at Wayne State University passionate about using technology to build impactful solutions.
 
-Here are some ideas to get you started:
+🌆 I am located in Detroit, Michigan and am interested in Software Engineering, Cloud computing, Artificial Intelligence and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills:
+- Programming Languages: Python, C++, JavaScript/HTML/CSS, Java, and Swift. 
+- Frameworks & Tools: React, NodeJS, Flask, AWS, Git, MongoDB
+- Cloud & DevOps: Currently learning cloud computing concepts, Google Cloud, and DevOps practices including version control (Git) and infrastructure as code (Terraform)
+
+👨‍💻 I have experience as a Software Implementation intern at Henkel and as a programming instructor at iCode and the Wayne State Engineering Camp.
+
+💡 I'm eager to actively contribute to projects in cloud computing and software development, while simultaneously advancing my technical skill set and career.
+
+🏋️‍♂️ Outside of Tech, I like to lift weights, play sports, watch the Detroit Lions and build side projects.
+
+🤝 If you are interested in connecting and discussing potential internship opportunities or just want to chat please feel free to do so!
