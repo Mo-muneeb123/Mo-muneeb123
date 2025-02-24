@@ -1,4 +1,6 @@
-## ✋ Hi, I am a junior Computer Science and Mathematics student at Wayne State University passionate about using technology to build impactful solutions.
+## ✋ Hi, I am a junior Computer Science and Mathematics student at Wayne State University 
+
+✏️ I am passionate about using technology to build impactful solutions.
 
 🌆 I am located in Detroit, Michigan and am interested in Software Engineering, Cloud computing, Artificial Intelligence and Machine Learning
 
